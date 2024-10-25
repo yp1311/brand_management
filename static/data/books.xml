@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library xmlns="http://localhost:8000/library/books" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <Book id="b1">
+        <Title>Reliance</Title>
+        <Author xlink:href="authors.xml#a1"/>
+        <Publisher xlink:href="publishers.xml#p1"/>
+        <Genre xlink:href="genres.xml#g1"/>
+        <State>Present</State>
+    </Book>
+    <Book id="b2">
+        <Title>Tata</Title>
+        <Author xlink:href="authors.xml#a2"/>
+        <Publisher xlink:href="publishers.xml#p1"/>
+        <Genre xlink:href="genres.xml#g1"/>
+        <State>Present</State>
+    </Book>
+    <Book id="b3">
+        <Title>Wipro</Title>
+        <Author xlink:href="authors.xml#a3"/>
+        <Publisher xlink:href="publishers.xml#p1"/>
+        <Genre xlink:href="genres.xml#g1"/>
+        <State>Present</State>
+    </Book>
+    <Book id="b4">
+        <Title>Tesla</Title>
+        <Author xlink:href="authors.xml#a4"/>
+        <Publisher xlink:href="publishers.xml#p2"/>
+        <Genre xlink:href="genres.xml#g2"/>
+        <State>Present</State>
+    </Book>
+    <Book id="b5">
+        <Title>SpaceX</Title>
+        <Author xlink:href="authors.xml#a4"/>
+        <Publisher xlink:href="publishers.xml#p2"/>
+        <Genre xlink:href="genres.xml#g3"/>
+        <State>Present</State>
+    </Book>
+    <!-- Add more books as needed -->
+</Library>

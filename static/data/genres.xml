@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Genres xmlns="http://localhost:8000/library/genres">
+    <Genre id="g1">
+        <Name>Multinational Conglomerate</Name>
+    </Genre>
+    <Genre id="g2">
+        <Name>Electric Car </Name>
+    </Genre>
+    <Genre id="g3">
+        <Name>Space </Name>
+    </Genre>
+    
+    <!-- Add more genres as needed -->
+</Genres>

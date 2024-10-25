@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Authors xmlns="http://localhost:8000/library/authors">
+    <Author id="a1">
+        <Name>Mukesh Ambani</Name>
+    </Author>
+    <Author id="a2">
+        <Name>Ratan Tata</Name>
+    </Author>
+    <Author id="a3">
+        <Name>Azim Premji</Name>
+    </Author>
+    <Author id="a4">
+        <Name>Elon Musk</Name>
+    </Author>
+     <!-- Add more authors as needed -->
+</Authors>

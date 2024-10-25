@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Publishers xmlns="http://localhost:8000/library/publishers">
+    <Publisher id="p1">
+        <Name>India</Name>
+    </Publisher>
+    <Publisher id="p2">
+        <Name>USA</Name>
+    </Publisher>
+    
+    <!-- Add more publishers as needed -->
+</Publishers>
